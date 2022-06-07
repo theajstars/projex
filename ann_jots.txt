@@ -1,0 +1,13 @@
+A neuron in an ANN is simply a building block similar to the ones in the human brain. Communication links between neurons
+
+1. Inputs: Features in an input layer refer to the inputs from your dataset: sorethroat, headache etc.
+2. Hidden layers
+3. Output
+
+Weights are multiplied by the value of inputs and summed up and stored in the value of the neuron in the hidden layer.
+
+There is a concept of activation functions (af) in neurons. These AFs take inputs and give output.
+When a neuron receives a value, it passes the value through the activation function 
+A bias is added to add more flexibility to the model. The bias can either increase or decrease the net input of the activation function depending on whether it is positive or negative
+
+**Check features table shoutouts

@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>The COVID-19 epidemic</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>4158602020127</b:StandardNumber>
+    <b:StandardNumber>13653156</b:StandardNumber>
+    <b:Pages>278-280</b:Pages>
+    <b:JournalName>Tropical Medicine and International Health</b:JournalName>
+    <b:Volume>25</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Thirumalaisamy P.</b:First>
+            <b:Last>Velavan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Christian G.</b:First>
+            <b:Last>Meyer</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>the-covid-19-epidemic</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Introduction to cloud computing: platforms and solutions</b:Title>
+    <b:Year>2014</b:Year>
+    <b:StandardNumber>15737543</b:StandardNumber>
+    <b:Pages>1225-1229</b:Pages>
+    <b:JournalName>Cluster Computing</b:JournalName>
+    <b:Volume>17</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jesus</b:First>
+            <b:Last>Carretero</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Javier Garcia</b:First>
+            <b:Last>Blas</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>introduction-to-cloud-computing:-platforms-and-solutions</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Layers of a Convolutional Neural Network</b:Title>
+    <b:Year>2017</b:Year>
+    <b:StandardNumber>9781538619490</b:StandardNumber>
+    <b:Pages>16</b:Pages>
+    <b:JournalName>Ieee</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Saad</b:First>
+            <b:Last>Albawi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tareq Abed Mohammed</b:First>
+            <b:Last>Mohammed</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Saad</b:First>
+            <b:Last>Alzawi</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>layers-of-a-convolutional-neural-network</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Microsoft Azure and Cloud Computing</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Pages>3-20</b:Pages>
+    <b:JournalName>Microsoft Azure</b:JournalName>
+    <b:Issue>Im</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Julian</b:First>
+            <b:Last>Soh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marshall</b:First>
+            <b:Last>Copeland</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Anthony</b:First>
+            <b:Last>Puca</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Micheleen</b:First>
+            <b:Last>Harris</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>microsoft-azure-and-cloud-computing</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Machine learning-based prediction of COVID-19 diagnosis based on symptoms</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>4174602000372</b:StandardNumber>
+    <b:StandardNumber>23986352</b:StandardNumber>
+    <b:Publisher>Springer US</b:Publisher>
+    <b:Pages>1-5</b:Pages>
+    <b:JournalName>npj Digital Medicine</b:JournalName>
+    <b:Volume>4</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yazeed</b:First>
+            <b:Last>Zoabi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shira</b:First>
+            <b:Last>Deri-Rozov</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Noam</b:First>
+            <b:Last>Shomron</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1038&#x2F;s41746-020-00372-6</b:URL>
+    <b:Tag>machine-learning-based-prediction-of-covid-19-diagnosis-based-on-symptoms</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Molecular diagnostic technologies for COVID-19: Limitations and challenges</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>20901232</b:StandardNumber>
+    <b:Publisher>Cairo University</b:Publisher>
+    <b:Pages>149-159</b:Pages>
+    <b:JournalName>Journal of Advanced Research</b:JournalName>
+    <b:Volume>26</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Adeel</b:First>
+            <b:Last>Afzal</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1016&#x2F;j.jare.2020.08.002</b:URL>
+    <b:Tag>molecular-diagnostic-technologies-for-covid-19:-limitations-and-challenges</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Exploring Automatic Diagnosis of COVID-19 from Crowdsourced Respiratory Sound Data</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>9781450379984</b:StandardNumber>
+    <b:Pages>3474-3484</b:Pages>
+    <b:JournalName>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Chloë</b:First>
+            <b:Last>Brown</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jagmohan</b:First>
+            <b:Last>Chauhan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andreas</b:First>
+            <b:Last>Grammenos</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jing</b:First>
+            <b:Last>Han</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Apinan</b:First>
+            <b:Last>Hasthanasombat</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dimitris</b:First>
+            <b:Last>Spathis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tong</b:First>
+            <b:Last>Xia</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pietro</b:First>
+            <b:Last>Cicuta</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Cecilia</b:First>
+            <b:Last>Mascolo</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>exploring-automatic-diagnosis-of-covid-19-from-crowdsourced-respiratory-sound-data</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Introducing Windows Azure</b:Title>
+    <b:Year>2013</b:Year>
+    <b:StandardNumber>9780735682887</b:StandardNumber>
+    <b:Pages>142</b:Pages>
+    <b:Issue>October</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mitch</b:First>
+            <b:Last>Tulloch</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>introducing-windows-azure</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Introduction to cloud computing</b:Title>
+    <b:Year>2011</b:Year>
+    <b:StandardNumber>15424065</b:StandardNumber>
+    <b:Pages>449-458</b:Pages>
+    <b:JournalName>Journal of Electronic Resources in Medical Libraries</b:JournalName>
+    <b:Volume>8</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Dale J.</b:First>
+            <b:Last>Prince</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>introduction-to-cloud-computing</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Identification of high-risk COVID-19 patients using machine learning</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>1111111111</b:StandardNumber>
+    <b:StandardNumber>19326203</b:StandardNumber>
+    <b:Pages>1-21</b:Pages>
+    <b:JournalName>PLoS ONE</b:JournalName>
+    <b:Volume>16</b:Volume>
+    <b:Issue>9 September</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mario A.</b:First>
+            <b:Last>Quiroz-Juárez</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Armando</b:First>
+            <b:Last>Torres-Gómez</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Irma</b:First>
+            <b:Last>Hoyo-Ulloa</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Roberto D.J.</b:First>
+            <b:Last>de León-Montiel</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alfred B.</b:First>
+            <b:Last>U&#39;Ren</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>identification-of-high-risk-covid-19-patients-using-machine-learning</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Coronaviruses</b:Title>
+    <b:Year>2019</b:Year>
+    <b:Pages>488-523</b:Pages>
+    <b:Issue>M</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Linda J</b:First>
+            <b:Last>Saif</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Qiuhong</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Anastasia N</b:First>
+            <b:Last>Vlasova</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kwonil</b:First>
+            <b:Last>Jung</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shaobo</b:First>
+            <b:Last>Xiao</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>coronaviruses</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Coronavirus disease 2019: What we know?</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>10969071</b:StandardNumber>
+    <b:Pages>719-725</b:Pages>
+    <b:JournalName>Journal of Medical Virology</b:JournalName>
+    <b:Volume>92</b:Volume>
+    <b:Issue>7</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Feng</b:First>
+            <b:Last>He</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yu</b:First>
+            <b:Last>Deng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Weina</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>coronavirus-disease-2019:-what-we-know?</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Book</b:SourceType>
+    <b:Title>Neelam MahaLakshmi (2021) Aspects of Artificial Intelligence In Karthikeyan.J, Su-Hie Ting and Yu-Jin Ng (eds), “Learning Outcomes of Classroom Research” p:250-256, L’ Ordine Nuovo...</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9789392995156</b:StandardNumber>
+    <b:Pages>250-256</b:Pages>
+    <b:Issue>January</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mahalakshmi</b:First>
+            <b:Last>Neelam</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>neelam-mahalakshmi-(2021)-aspects-of-artificial-intelligence-in-karthikeyan.j,-su-hie-ting-and-yu-jin-ng-(eds),-“learning-outcomes-of-classroom-research”-p:250-256,-l’-ordine-nuovo...</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>COVID-19 symptoms predictive of healthcare workers&#39; SARS-CoV-2 PCR results</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>1111111111</b:StandardNumber>
+    <b:StandardNumber>19326203</b:StandardNumber>
+    <b:Pages>1-12</b:Pages>
+    <b:JournalName>PLoS ONE</b:JournalName>
+    <b:Volume>15</b:Volume>
+    <b:Issue>6</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Fan Yun</b:First>
+            <b:Last>Lan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Robert</b:First>
+            <b:Last>Filler</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Soni</b:First>
+            <b:Last>Mathew</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jane</b:First>
+            <b:Last>Buley</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Eirini</b:First>
+            <b:Last>Iliaki</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lou Ann</b:First>
+            <b:Last>Bruno-Murtha</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rebecca</b:First>
+            <b:Last>Osgood</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Costas A.</b:First>
+            <b:Last>Christophi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alejandro</b:First>
+            <b:Last>Fernandez-Montero</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Stefanos N.</b:First>
+            <b:Last>Kales</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1371&#x2F;journal.pone.0235460</b:URL>
+    <b:Tag>covid-19-symptoms-predictive-of-healthcare-workers&#39;-sars-cov-2-pcr-results</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Book</b:SourceType>
+    <b:Title>Azure Machine Learning Microsoft Azure Essentials</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>9780735698178</b:StandardNumber>
+    <b:Pages>237</b:Pages>
+    <b:JournalName>Microsoft Press</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jeff</b:First>
+            <b:Last>Barnes</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>http:&#x2F;&#x2F;www.microsoft.com</b:URL>
+    <b:Tag>azure-machine-learning-microsoft-azure-essentials</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>0098-7484</b:StandardNumber>
+    <b:Pages>1239</b:Pages>
+    <b:JournalName>Jama</b:JournalName>
+    <b:Volume>323</b:Volume>
+    <b:Issue>13</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Zunyou</b:First>
+            <b:Last>Wu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jennifer M.</b:First>
+            <b:Last>McGoogan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>characteristics-of-and-important-lessons-from-the-coronavirus-disease-2019-(covid-19)-outbreak-in-china</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Deep learning</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>14764687</b:StandardNumber>
+    <b:Pages>436-444</b:Pages>
+    <b:JournalName>Nature</b:JournalName>
+    <b:Volume>521</b:Volume>
+    <b:Issue>7553</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yann</b:First>
+            <b:Last>Lecun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yoshua</b:First>
+            <b:Last>Bengio</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Geoffrey</b:First>
+            <b:Last>Hinton</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>deep-learning</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Challenges and burden of the Coronavirus 2019 (COVID-19) pandemic for child and adolescent mental health: A narrative review to highlight clinical and research needs in the acute phase and the long return to normality</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>17532000</b:StandardNumber>
+    <b:Publisher>BioMed Central</b:Publisher>
+    <b:Pages>1-11</b:Pages>
+    <b:JournalName>Child and Adolescent Psychiatry and Mental Health</b:JournalName>
+    <b:Volume>14</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jörg M.</b:First>
+            <b:Last>Fegert</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Benedetto</b:First>
+            <b:Last>Vitiello</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Paul L.</b:First>
+            <b:Last>Plener</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vera</b:First>
+            <b:Last>Clemens</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1186&#x2F;s13034-020-00329-3</b:URL>
+    <b:Tag>challenges-and-burden-of-the-coronavirus-2019-(covid-19)-pandemic-for-child-and-adolescent-mental-health:-a-narrative-review-to-highlight-clinical-and-research-needs-in-the-acute-phase-and-the-long-return-to-normality</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Applications of big data analytics to control covid‐19 pandemic</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>14248220</b:StandardNumber>
+    <b:JournalName>Sensors</b:JournalName>
+    <b:Volume>21</b:Volume>
+    <b:Issue>7</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Shikah J.</b:First>
+            <b:Last>Alsunaidi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Abdullah M.</b:First>
+            <b:Last>Almuhaideb</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nehad M.</b:First>
+            <b:Last>Ibrahim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fatema S.</b:First>
+            <b:Last>Shaikh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kawther S.</b:First>
+            <b:Last>Alqudaihi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fahd A.</b:First>
+            <b:Last>Alhaidari</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Irfan Ullah</b:First>
+            <b:Last>Khan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nida</b:First>
+            <b:Last>Aslam</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mohammed S.</b:First>
+            <b:Last>Alshahrani</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>applications-of-big-data-analytics-to-control-covid‐19-pandemic</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Charting the challenges behind the testing of COVID-19 in developing countries: Nepal as a case study</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>25900536</b:StandardNumber>
+    <b:Pages>53-56</b:Pages>
+    <b:JournalName>Biosafety and Health</b:JournalName>
+    <b:Volume>2</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Anil K.</b:First>
+            <b:Last>Giri</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Divya RSJB</b:First>
+            <b:Last>Rana</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1016&#x2F;j.bsheal.2020.05.002</b:URL>
+    <b:Tag>charting-the-challenges-behind-the-testing-of-covid-19-in-developing-countries:-nepal-as-a-case-study</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A model for the effective COVID-19 identification in uncertainty environment using primary symptoms and CT scans</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>1460458220952</b:StandardNumber>
+    <b:StandardNumber>17412811</b:StandardNumber>
+    <b:Pages>3088-3105</b:Pages>
+    <b:JournalName>Health Informatics Journal</b:JournalName>
+    <b:Volume>26</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mohamed</b:First>
+            <b:Last>Abdel-Basst</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rehab</b:First>
+            <b:Last>Mohamed</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mohamed</b:First>
+            <b:Last>Elhoseny</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>a-model-for-the-effective-covid-19-identification-in-uncertainty-environment-using-primary-symptoms-and-ct-scans</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Coronavirus 101</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>15554155</b:StandardNumber>
+    <b:Pages>416-419</b:Pages>
+    <b:JournalName>Journal for Nurse Practitioners</b:JournalName>
+    <b:Volume>16</b:Volume>
+    <b:Issue>6</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Barbara</b:First>
+            <b:Last>Holstein</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>coronavirus-101</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Vol 7, Number 2, 2017 European Journal of Technique EJT</b:Title>
+    <b:Year>2017</b:Year>
+    <b:Pages>207-218</b:Pages>
+    <b:Volume>7</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>European</b:First>
+            <b:Last>Journal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Technique</b:First>
+            <b:Last>Ejt</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>vol-7,-number-2,-2017-european-journal-of-technique-ejt</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Machine Learning in Radiation Oncology</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>9783319183053</b:StandardNumber>
+    <b:Pages>3-11</b:Pages>
+    <b:JournalName>Machine Learning in Radiation Oncology</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Issam El</b:First>
+            <b:Last>Naqa</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Martin J</b:First>
+            <b:Last>Murphy</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>machine-learning-in-radiation-oncology</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>COVIDC: An expert system to diagnose COVID-19 and predict its severity using chest CT scans: Application in radiology</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>23529148</b:StandardNumber>
+    <b:Publisher>Elsevier Ltd</b:Publisher>
+    <b:Pages>100540</b:Pages>
+    <b:JournalName>Informatics in Medicine Unlocked</b:JournalName>
+    <b:Volume>23</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Wajid Arshad</b:First>
+            <b:Last>Abbasi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Syed Ali</b:First>
+            <b:Last>Abbas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Saiqa</b:First>
+            <b:Last>Andleeb</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ghafoor</b:First>
+            <b:Last>ul Islam</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Syeda Adin</b:First>
+            <b:Last>Ajaz</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kinza</b:First>
+            <b:Last>Arshad</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sadia</b:First>
+            <b:Last>Khalil</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Asma</b:First>
+            <b:Last>Anjam</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kashif</b:First>
+            <b:Last>Ilyas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mohsib</b:First>
+            <b:Last>Saleem</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jawad</b:First>
+            <b:Last>Chughtai</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ayesha</b:First>
+            <b:Last>Abbas</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1016&#x2F;j.imu.2021.100540</b:URL>
+    <b:Tag>covidc:-an-expert-system-to-diagnose-covid-19-and-predict-its-severity-using-chest-ct-scans:-application-in-radiology</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A comprehensive study on cloud computing</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>9781479968183</b:StandardNumber>
+    <b:JournalName>ICIIECS 2015 - 2015 IEEE International Conference on Innovations in Information, Embedded and Communication Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>S.</b:First>
+            <b:Last>Ananthi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>S.</b:First>
+            <b:Last>Hariganesh</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>a-comprehensive-study-on-cloud-computing</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Artificial intelligence–enabled rapid diagnosis of patients with COVID-19</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>1546170X</b:StandardNumber>
+    <b:Publisher>Springer US</b:Publisher>
+    <b:Pages>1224-1228</b:Pages>
+    <b:JournalName>Nature Medicine</b:JournalName>
+    <b:Volume>26</b:Volume>
+    <b:Issue>8</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Xueyan</b:First>
+            <b:Last>Mei</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hao Chih</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kai yue</b:First>
+            <b:Last>Diao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mingqian</b:First>
+            <b:Last>Huang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Bin</b:First>
+            <b:Last>Lin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chenyu</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zongyu</b:First>
+            <b:Last>Xie</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yixuan</b:First>
+            <b:Last>Ma</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Philip M.</b:First>
+            <b:Last>Robson</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael</b:First>
+            <b:Last>Chung</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Adam</b:First>
+            <b:Last>Bernheim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Venkatesh</b:First>
+            <b:Last>Mani</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Claudia</b:First>
+            <b:Last>Calcagno</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kunwei</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shaolin</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hong</b:First>
+            <b:Last>Shan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jian</b:First>
+            <b:Last>Lv</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tongtong</b:First>
+            <b:Last>Zhao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Junli</b:First>
+            <b:Last>Xia</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Qihua</b:First>
+            <b:Last>Long</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sharon</b:First>
+            <b:Last>Steinberger</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Adam</b:First>
+            <b:Last>Jacobi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Timothy</b:First>
+            <b:Last>Deyer</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marta</b:First>
+            <b:Last>Luksza</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fang</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Brent P.</b:First>
+            <b:Last>Little</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zahi A.</b:First>
+            <b:Last>Fayad</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yang</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>http:&#x2F;&#x2F;dx.doi.org&#x2F;10.1038&#x2F;s41591-020-0931-3</b:URL>
+    <b:Tag>artificial-intelligence–enabled-rapid-diagnosis-of-patients-with-covid-19</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Headset Like Wearable Device to Track COVID-19 Symptoms</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>9781728169477</b:StandardNumber>
+    <b:Pages>8-11</b:Pages>
+    <b:JournalName>2020 9th Mediterranean Conference on Embedded Computing, MECO 2020</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Radovan</b:First>
+            <b:Last>Stojanovic</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andrej</b:First>
+            <b:Last>Skraba</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Budimir</b:First>
+            <b:Last>Lutovac</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>a-headset-like-wearable-device-to-track-covid-19-symptoms</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A literature review on COVID-19 disease diagnosis from respiratory sound data</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>2375-1495</b:StandardNumber>
+    <b:Pages>140-153</b:Pages>
+    <b:JournalName>AIMS Bioengineering</b:JournalName>
+    <b:Volume>8</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Kranthi Kumar</b:First>
+            <b:Last>Lella</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alphonse</b:First>
+            <b:Last>PJA</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>a-literature-review-on-covid-19-disease-diagnosis-from-respiratory-sound-data</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Covid-19 — Navigating the Uncharted</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>0028-4793</b:StandardNumber>
+    <b:Pages>1268-1269</b:Pages>
+    <b:JournalName>New England Journal of Medicine</b:JournalName>
+    <b:Volume>382</b:Volume>
+    <b:Issue>13</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Anthony S.</b:First>
+            <b:Last>Fauci</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>H. Clifford</b:First>
+            <b:Last>Lane</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Robert R.</b:First>
+            <b:Last>Redfield</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>covid-19-—-navigating-the-uncharted</b:Tag>
+  </b:Source>
+  <b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Prevention Is Better Than the Cure: Risk Management of COVID-19</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Pages>46</b:Pages>
+    <b:JournalName>Journal of Risk and Financial Management</b:JournalName>
+    <b:Volume>13</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Michael</b:First>
+            <b:Last>McAleer</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>prevention-is-better-than-the-cure:-risk-management-of-covid-19</b:Tag>
+  </b:Source>
+</b:Sources>
